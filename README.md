@@ -1,5 +1,6 @@
 # Letter-Image-Recognition: 
-Using UCI Letter Image Recognition Data Set
+2023 NYCU Data Mining class HW1  
+Using UCI Letter Image Recognition Data Set  
 # Attributes Description:  
 lettr capital letter (26 values from A to Z)  
 x-box horizontal position of box (integer)  
