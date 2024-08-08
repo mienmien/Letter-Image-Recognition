@@ -19,3 +19,12 @@ x-ege mean edge count left to right (integer)
 xegvy correlation of x-ege with y (integer)  
 y-ege mean edge count bottom to top (integer)  
 yegvx correlation of y-ege with x (integer)  
+
+# Result  
+Based on Area Under Receiver Operating Characteristic Curve  
+
+**Private test data** - 0.98200  
+ranking - 29/75  
+
+---strong baseline--- 0.91338  
+---simple baseline--- 0.83448  
